@@ -1,0 +1,17 @@
+{
+  "subscriptions": {
+    "user_crnkq5pa_1784272811296": {
+      "userId": "user_crnkq5pa_1784272811296",
+      "name": "harsha",
+      "email": "",
+      "plan": "free",
+      "status": "active",
+      "amount": 0,
+      "paymentId": "test-payment-1785556246761",
+      "orderId": "order_1785556246755",
+      "gateway": "razorpay-test",
+      "startedAt": "2026-08-01T03:50:46.768Z",
+      "updatedAt": "2026-08-01T03:50:46.768Z"
+    }
+  }
+}

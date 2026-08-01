@@ -1,0 +1,12 @@
+Watch Party Subscription Invoice
+Invoice ID: INV-1785556246769
+Customer: harsha
+Email: n/a
+Plan: free
+Amount: ₹0
+Payment ID: test-payment-1785556246761
+Order ID: order_1785556246755
+Status: active
+Issued At: 2026-08-01T03:50:46.768Z
+
+Thank you for upgrading your Watch Party plan.

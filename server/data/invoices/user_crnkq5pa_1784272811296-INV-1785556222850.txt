@@ -1,0 +1,12 @@
+Watch Party Subscription Invoice
+Invoice ID: INV-1785556222850
+Customer: harsha
+Email: n/a
+Plan: bronze
+Amount: ₹499
+Payment ID: test-payment-1785556222842
+Order ID: order_1785556222839
+Status: active
+Issued At: 2026-08-01T03:50:22.848Z
+
+Thank you for upgrading your Watch Party plan.
