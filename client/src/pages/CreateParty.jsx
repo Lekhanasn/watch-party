@@ -1,4 +1,4 @@
-﻿// Watch Party create page
+// Watch Party create page
 // File saved without BOM
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";

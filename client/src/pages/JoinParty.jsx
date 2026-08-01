@@ -1,4 +1,4 @@
-﻿// Watch Party join page
+// Watch Party join page
 // File saved without BOM
 import { useEffect, useState } from "react";
 import { useNavigate, useSearchParams } from "react-router-dom";
