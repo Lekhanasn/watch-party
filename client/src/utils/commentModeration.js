@@ -1,5 +1,5 @@
 const abusiveWords = ["spam", "idiot", "stupid", "hate", "nonsense", "kill", "moron"];
-const specialCharacterPattern = /([!@#$%^&*()_+={}\[\]\|\\;:'",.<>/?`~])\1+/;
+const specialCharacterPattern = /([!@#$%^&*()_+={}\[\]|\\;:'",.<>/?`~])\1+/;
 const spamPattern = /(buy now|click here|free money|earn cash|guaranteed profit)/i;
 
 export function isSafeComment(text) {
